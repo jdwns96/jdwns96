@@ -1,3 +1,5 @@
+
+<div align="center">
 # Jeong Dong jun (Jerry)
 - Front-end developer
 
@@ -15,3 +17,4 @@
 
 
 ## 📫 How to reach me
+</div>
