@@ -4,7 +4,7 @@
 ### introduce ⭐️ 
   <p>Jeong Dong jun (Jerry) </p>
   <p>Front-end developer </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdwns96&show_icons=true&theme=default)
+
 
 
 ### skills 🍀
