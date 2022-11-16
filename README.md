@@ -2,9 +2,8 @@
 <div align="center">
   
 ### introduce ⭐️ 
-  <p>Jeong Dong jun (Jerry) </p>
-  <p>Front-end developer </p>
-
+  <b>Jeong Dong jun (Jerry) </b>
+  <b>Front-end developer </b>
 
 
 ### skills 🍀
@@ -20,8 +19,7 @@
 
 
 ### ⭐️ Github stats 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdwns96&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdwns96&langs_count=8)](https://github.com/jdwns96/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdwns96&show_icons=true&theme=default)
 
 </div>
