@@ -1,7 +1,7 @@
 
 <div align="center">
   
-### introduce
+### introduce ⭐️ 
   <p>Jeong Dong jun (Jerry) </p>
   <p>Front-end developer </p>
 
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
 
 ### learning 🌱
-   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React-Native&logoColor=white"/>
+   <img src="https://img.shields.io/badge/React-Native-61DAFB?style=flat&logo=React&logoColor=white"/>
 
 
 ### ⭐️ Github stats 
@@ -24,7 +24,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdwns96&langs_count=8)](https://github.com/jdwns96/github-readme-stats)
 
 
-
-
-## 📫 How to reach me
 </div>
