@@ -2,6 +2,9 @@
 - Front-end developer
 
 
+### skills
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+
 ## ⭐️ Github stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdwns96&show_icons=true&theme=default)
 
