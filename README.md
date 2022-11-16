@@ -2,8 +2,8 @@
 <div align="center">
   
 ### introduce ⭐️ 
-  <b>Jeong Dong jun (Jerry) </b>
-  <b>Front-end developer </b>
+  <p>Jeong Dong jun (Jerry) </p>
+  <p>Front-end developer </p>
 
 
 ### skills 🍀
@@ -18,7 +18,7 @@
    <img src="https://img.shields.io/badge/React-Native-61DAFB?style=flat&logo=React&logoColor=white"/>
 
 
-### ⭐️ Github stats 
+###  Github stats ⭐️
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdwns96&langs_count=8)](https://github.com/jdwns96/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdwns96&show_icons=true&theme=default)
 
