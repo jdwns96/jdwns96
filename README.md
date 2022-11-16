@@ -2,7 +2,7 @@
 
   
 ### introduce ⭐️ 
-  <p>Jeong Dong jun (Jerry) </p>
+  <p>Jeong Dong jun </p>
   <p>Front-end developer </p>
 
 
